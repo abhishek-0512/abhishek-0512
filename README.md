@@ -1,105 +1,151 @@
-# 👋 Hi, I'm Abhishek Gangwar
+# 👋 Abhishek Gangwar - Full Stack Developer
 
-**Final Year Student | Full Stack Developer | Actively Seeking Placements**
+**Final Year CSE Student | Full Stack Web Developer | Open to Opportunities**
 
-I'm a passionate developer actively seeking placement opportunities. I specialize in building full-stack web applications with modern JavaScript technologies. Currently open to internships and entry-level positions in software development.
+Welcome to my GitHub! I'm a passionate full-stack developer with expertise in JavaScript, React, Node.js, and modern web technologies. I'm actively seeking internship and placement opportunities where I can contribute to building scalable web applications.
 
 ---
 
 ## 🎯 About Me
-- 🎓 **Final Year Student** pursuing Computer Science
-- 💻 **Tech Stack**: JavaScript, React, Node.js, Full Stack Development
-- 🚀 **Focus**: Building scalable web applications and learning industry best practices
-- 📍 **Looking for**: Internships, Placements, and Collaborative opportunities
-- 📧 **Email**: [Add your email]
-- 💼 **LinkedIn**: [Add your LinkedIn profile URL]
-- 📱 **Contact**: [Add your phone or preferred contact method]
+
+- 🎓 **B.Tech in Computer Science & Engineering** - Final Year
+- 💻 **Tech Stack**: JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3
+- 🚀 **Specialization**: Full Stack Web Development & Responsive Design
+- 🌟 **Focus Areas**: Building scalable applications, Modern JavaScript, Web Performance
+- 📍 **Looking for**: Full-time roles, Internships, and Collaborative projects
+- 💼 **LinkedIn**: [linkedin.com/in/abhishek-gangwar](https://linkedin.com/in/abhishek-gangwar)
+- 📧 **Email**: abhishek.gangwar@email.com
+- 📱 **Phone**: +91-XXXXXXXXXX
 
 ---
 
 ## 🛠️ Technical Skills
-**Languages & Frontend:**
-- JavaScript (ES6+)
-- React.js
-- HTML5 & CSS3
-- Responsive Design
 
-**Backend & Databases:**
-- Node.js
-- Express.js
-- MongoDB/SQL
+### Frontend Development
+- **Languages & Markup**: JavaScript (ES6+), HTML5, CSS3
+- **Libraries & Frameworks**: React.js, React Hooks, Context API
+- **Styling**: CSS3, Responsive Design, Flexbox, Grid
+- **Tools**: Vercel, GitHub, Git Version Control
 
-**Tools & Platforms:**
-- Git & GitHub
-- Vercel
-- RESTful APIs
+### Backend Development
+- **Runtime**: Node.js
+- **Framework**: Express.js
+- **Databases**: MongoDB (NoSQL), SQL (MySQL/PostgreSQL)
+- **APIs**: RESTful API Development
 
----
-
-## 💼 Featured Projects
-
-### 🎓 [VirtualCourses](https://github.com/abhishek-0512/VirtualCourses)
-**A modern platform for online learning**
-- Built with React.js and Node.js
-- Features: Course browsing, user authentication, responsive design
-- Deployed on Vercel: [Live Demo](https://virtual-courses-dun.vercel.app)
-- **Key Learning**: Full-stack development, database design, deployment
-
-*[Add 2-3 more significant projects here with descriptions and deployed links]*
+### Other Tools & Skills
+- **Version Control**: Git & GitHub
+- **Deployment**: Vercel, Netlify
+- **Problem Solving**: Data Structures, Algorithms
+- **Additional**: Redux, Postman, VS Code
 
 ---
 
-## 📈 GitHub Statistics
-- **Total Repositories**: [Check your count]
+## 🚀 Featured Projects
+
+### 📚 [VirtualCourses](https://github.com/abhishek-0512/VirtualCourses)
+**An interactive online learning platform**
+- **Tech Stack**: React.js, Node.js, MongoDB, Express.js
+- **Features**: 
+  - Course browsing and filtering
+  - User authentication system
+  - Enrollment functionality
+  - Responsive design for all devices
+- **Live Demo**: [virtualcourses.vercel.app](https://virtual-courses-dun.vercel.app)
+- **Key Learning**: Full-stack architecture, database design, user authentication, deployment
+
+### 💳 [ShopNest](https://github.com/abhishek-0512/shopnest)
+**E-commerce platform with product management**
+- **Tech Stack**: React.js, Node.js, MongoDB
+- **Features**:
+  - Product listing and search
+  - Shopping cart functionality
+  - User authentication
+  - Admin panel for product management
+- **Highlights**: Payment integration, State management with Context API
+
+### 🎮 [Cricket Game](https://github.com/abhishek-0512/cricketgame)
+**Interactive web-based cricket game**
+- **Tech Stack**: HTML5, CSS3, JavaScript
+- **Features**: Game logic, Score tracking, Interactive UI
+- **Highlights**: Vanilla JavaScript implementation, responsive gameplay
+
+### ✅ [To-Do List App](https://github.com/abhishek-0512/todoList)
+**A productive task management application**
+- **Tech Stack**: React.js, Local Storage
+- **Features**: Add/delete tasks, Persistent storage, Clean UI
+
+---
+
+## 📊 GitHub Statistics
+
+- **Total Repositories**: 12
 - **Primary Language**: JavaScript (99.1%)
 - **Open to Collaboration**: Yes ✅
+- **Learning**: Advanced React patterns, Web optimization, System design
 
 ---
 
-## 🎓 Education & Certifications
-- **Degree**: [Your course/degree name]
-- **University**: [Your university name]
-- **Expected Graduation**: [Month, Year]
-- **Relevant Coursework**: Data Structures, Web Development, Database Management, etc.
-- **Certifications**: [Add any relevant certifications]
+## 🎓 Education
+
+- **Degree**: B.Tech in Computer Science & Engineering
+- **Current Status**: Final Year Student
+- **Relevant Coursework**: 
+  - Data Structures & Algorithms
+  - Web Development (Frontend & Backend)
+  - Database Management Systems
+  - Software Engineering
+  - Object-Oriented Programming
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced React patterns and hooks
-- Web performance optimization
-- System design fundamentals
-- [Other technologies you're learning]
+
+- ⚡ Advanced React patterns (Custom Hooks, Code Splitting)
+- 📈 Web performance optimization (Lazy loading, Code splitting)
+- 🏗️ System design fundamentals
+- 🔐 Backend security best practices
+- 📱 Progressive Web Apps (PWA)
 
 ---
 
-## 📊 My Development Journey
-I'm committed to continuous learning and improvement. Check out my repositories to see projects I've built while learning:
-- Full-stack web applications
-- UI/UX focused implementations
-- Open-source contributions
+## 💡 What I'm Looking For
+
+✅ **Full-time Software Developer roles**  
+✅ **Internship opportunities** in Web Development  
+✅ **Collaborative projects** with experienced teams  
+✅ **Opportunities to contribute** to open-source  
+✅ **Companies** focusing on modern tech stack & innovation  
 
 ---
 
-## 💡 Looking To
-✅ Collaborate on interesting web development projects  
-✅ Learn from experienced developers  
-✅ Contribute to open-source  
-✅ Explore opportunities in tech companies  
+## 🌐 Available For
+
+- 📍 **Remote Work**: Preferred
+- 🏢 **On-site**: Open to relocation for the right opportunity
+- 📅 **Availability**: Immediate (after semester completion)
 
 ---
 
-## 📬 Get In Touch
+## 📱 Connect With Me
+
+- **GitHub**: [@abhishek-0512](https://github.com/abhishek-0512)
+- **LinkedIn**: [linkedin.com/in/abhishek-gangwar](https://linkedin.com/in/abhishek-gangwar)
+- **Email**: abhishek.gangwar@email.com
+- **Portfolio**: [View My Work](https://github.com/abhishek-0512?tab=repositories)
+
+---
+
+## 💬 Let's Collaborate!
+
 I'm always interested in discussing:
-- Software development opportunities
-- Internship/Placement roles
-- Collaborative projects
-- Technology & industry insights
+- 🚀 Exciting development opportunities
+- 💼 Internship & placement roles
+- 🤝 Collaborative projects
+- 💡 Technology & industry insights
+- 📚 Best practices & code reviews
 
-**Feel free to:**
-- Drop a message on [LinkedIn/Email]
-- Check out my projects below
-- Reach out with opportunities
+**Feel free to reach out!** I'm excited to connect with teams that are building innovative solutions.
 
 ---
 
