@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in Ja
 - 🚀 **Specialization**: Full Stack Web Development & Responsive Design
 - 🌟 **Focus Areas**: Building scalable applications, Modern JavaScript, Web Performance
 - 📍 **Looking for**: Full-time roles, Internships, and Collaborative projects
-- 💼 **LinkedIn**: [linkedin.com/in/abhishek-gangwar](https://linkedin.com/in/abhishek-gangwar)
-- 📧 **Email**: abhishek.gangwar@email.com
+- 💼 **LinkedIn**: [(https://www.linkedin.com/in/abhishek-gangwar-157440309/)]
+- 📧 **Email**: abhishekgangwar9876@email.com
 - 📱 **Phone**: +91-6386252355
 
 ---
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in Ja
 ### Frontend Development
 - **Languages & Markup**: JavaScript (ES6+), HTML5, CSS3
 - **Libraries & Frameworks**: React.js, React Hooks, Context API
-- **Styling**: CSS3, Responsive Design, Flexbox, Grid
+- **Styling**: CSS3, Responsive Design, Grid
 - **Tools**: Vercel, GitHub, Git Version Control
 
 ### Backend Development
@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in Ja
 
 ### Other Tools & Skills
 - **Version Control**: Git & GitHub
-- **Deployment**: Vercel, Netlify
+- **Deployment**: Vercel,Render
 - **Problem Solving**: Data Structures, Algorithms
 - **Additional**: Redux, Postman, VS Code
 
@@ -64,7 +64,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in Ja
   - Admin panel for product management
   - Order management system
 - **Highlights**: Payment integration, State management with Context API, Role-based access control
-- **Live Demo**: Coming soon
+- **Live Demo**: https://shopnest-tau-pink.vercel.app/
 - **Key Learning**: Full-stack e-commerce development, inventory management, payment processing
 
 ### 🎓 [Your-Planner](https://github.com/abhishek-0512/Your-Planner)
