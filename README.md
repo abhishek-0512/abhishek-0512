@@ -2,7 +2,7 @@
 
 **Final Year CSE Student | Full Stack Web Developer | Open to Opportunities**
 
-Welcome to my GitHub! I'm a passionate full-stack developer with expertise in JavaScript, React, Node.js, and modern web technologies. I'm actively seeking internship and placement opportunities where I can contribute to building scalable web applications.
+Welcome to my GitHub! I'm a passionate full-stack developer with expertise in JavaScript, React, Node.js, and modern web technologies. I'm actively seeking internship and placement opportunities where I can contribute my skills and grow as a developer.
 
 ---
 
@@ -55,25 +55,23 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in Ja
 - **Key Learning**: Full-stack architecture, database design, user authentication, deployment
 
 ### 💳 [ShopNest](https://github.com/abhishek-0512/shopnest)
-**E-commerce platform with product management**
-- **Tech Stack**: React.js, Node.js, MongoDB
+**E-commerce platform with advanced product management**
+- **Tech Stack**: React.js, Node.js, MongoDB, Express.js
 - **Features**:
-  - Product listing and search
-  - Shopping cart functionality
-  - User authentication
+  - Product listing, search, and filtering
+  - Shopping cart functionality with persistent storage
+  - User authentication & secure login
   - Admin panel for product management
-- **Highlights**: Payment integration, State management with Context API
+  - Order management system
+- **Highlights**: Payment integration, State management with Context API, Role-based access control
+- **Live Demo**: Coming soon
+- **Key Learning**: Full-stack e-commerce development, inventory management, payment processing
 
-### 🎮 [Cricket Game](https://github.com/abhishek-0512/cricketgame)
-**Interactive web-based cricket game**
-- **Tech Stack**: HTML5, CSS3, JavaScript
-- **Features**: Game logic, Score tracking, Interactive UI
-- **Highlights**: Vanilla JavaScript implementation, responsive gameplay
-
-### ✅ [To-Do List App](https://github.com/abhishek-0512/todoList)
-**A productive task management application**
-- **Tech Stack**: React.js, Local Storage
-- **Features**: Add/delete tasks, Persistent storage, Clean UI
+### 🎓 [Your-Planner](https://github.com/abhishek-0512/Your-Planner)
+**Smart planning and scheduling application**
+- **Tech Stack**: React.js, Node.js, MongoDB
+- **Features**: Task scheduling, Priority management, User-friendly interface
+- **Highlights**: Real-time updates, Persistent data storage
 
 ---
 
