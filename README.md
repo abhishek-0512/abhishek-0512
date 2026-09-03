@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in Ja
 - 📍 **Looking for**: Full-time roles, Internships, and Collaborative projects
 - 💼 **LinkedIn**: [linkedin.com/in/abhishek-gangwar](https://linkedin.com/in/abhishek-gangwar)
 - 📧 **Email**: abhishek.gangwar@email.com
-- 📱 **Phone**: +91-XXXXXXXXXX
+- 📱 **Phone**: +91-6386252355
 
 ---
 
