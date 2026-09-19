@@ -1,107 +1,28 @@
-👋 Hi, I'm Abhishek Gangwar
-Full Stack Developer | Backend Engineering | AI
+<h1 align="center">Hi 👋, I'm Abhishek Gangwar</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-I'm a Computer Science & Engineering student at AKGEC and a Full Stack Developer focused on building scalable web applications, backend systems, REST APIs, and AI-powered products.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-0512&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-0512" /> </p>
 
-🎓 B.Tech CSE — AKGEC | 2027
-💼 Full Stack Developer Intern @ PayVista Technology Solutions
-🧠 250+ DSA problems solved on LeetCode & GeeksforGeeks
-🏆 Top 100 / 1000+ teams — Executive 4.0 Hackathon, DTU
-🚀 Interested in Backend Engineering, System Design & Generative AI
-🌱 Currently learning Scalable Backend Architecture, Redis & System Design
-🌐 Connect With Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-0512" alt="abhishek-0512" /></a> </p>
 
+- 🔭 I’m currently working on **Multi-agent Platform**
 
+- 🌱 I’m currently learning **Next.js, Docker, Redis, and Advanced Data Structures**
 
+- 👨‍💻 All of my projects are available at [https://abhishekgangwar.vercel.app/](https://abhishekgangwar.vercel.app/)
 
+- 📫 How to reach me **abhishekgangwar9876@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhishek-gangwar-157440309/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gangwar-157440309/" height="30" width="40" /></a>
+</p>
 
-🛠️ Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-0512&show_icons=true&locale=en&layout=compact" alt="abhishek-0512" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-0512&show_icons=true&locale=en" alt="abhishek-0512" /></p>
 
-
-
-
-
-
-
-Frontend
-
-
-
-
-
-
-
-Backend & Databases
-
-
-
-
-
-
-
-
-
-
-DevOps & Cloud
-
-
-
-
-
-
-
-AI & Tools
-
-
-
-
-
-🚀 Featured Projects
-🎓 Virtual Courses — AI-Powered LMS
-
-Full-stack LMS with course enrollment, lecture management, progress tracking, role-based access control, and AI-powered learning assistance.
-
-Highlights: Gemini AI Tutor · Voice Assistant · JWT Authentication · REST APIs · Cloudinary · Redux Toolkit
-
-Stack: React Tailwind CSS Node.js Express MongoDB JWT Gemini API
-
-🌐 Live Demo
-
-🛒 ShopNest — E-Commerce Platform
-
-Full-stack e-commerce platform with product discovery, filtering, cart management, authentication, order processing, and admin operations.
-
-Highlights: REST APIs · Authentication · Order Management · Product Management · Production Deployment
-
-Stack: React Tailwind CSS Redux Node.js Express MongoDB JWT
-
-💼 Experience
-Full Stack Developer Intern — PayVista Technology Solutions
-
-July 2026 – Present
-
-Building a document analytics platform for CSV, Excel & PDF processing and business insights.
-Developing Node.js + SQL REST APIs for data analysis and automated reporting.
-Integrated WhatsApp Business messaging for payment notifications and customer communication.
-Implemented GitHub Actions CI/CD for development and production deployments.
-Web Developer Intern — IBM SkillsBuild
-
-August 2025 – September 2025
-
-Developed a responsive food-ordering application using React.js.
-Built reusable components for maintainable and responsive frontend development.
-🏆 Achievements
-🥇 Top 100 among 1000+ teams — Executive 4.0 Hackathon, DTU
-🧠 250+ DSA problems solved across LeetCode & GeeksforGeeks
-📜 IBM SkillsBuild — Full Stack Developer Professional Certificate
-📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=abhishek-0512&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/> <img src="https://streak-stats.demolab.com/?user=abhishek-0512&theme=github_dark&hide_border=true" height="165"/> </p>
-
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhishek-0512&theme=github_dark&hide_border=true&layout=compact" /> </p>
-
-<p align="center"> <i>Building scalable software, learning continuously, and turning ideas into products. 🚀</i> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-0512&" alt="abhishek-0512" /></p>
