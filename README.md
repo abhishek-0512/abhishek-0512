@@ -1,152 +1,201 @@
-# 👋 Abhishek Gangwar - Full Stack Developer
+👋 Hi, I'm Abhishek Gangwar
+💻 Full Stack Developer | Backend Enthusiast | AI & Web Development
 
-**Final Year CSE Student | Full Stack Web Developer | Open to Opportunities**
+I'm a Computer Science and Engineering student at Ajay Kumar Garg Engineering College (AKGEC) and a Full Stack Developer passionate about building scalable web applications, RESTful APIs, data-driven platforms, and reliable software solutions.
 
-Welcome to my GitHub! I'm a passionate full-stack developer with expertise in JavaScript, React, Node.js, and modern web technologies. I'm actively seeking internship and placement opportunities where I can contribute my skills and grow as a developer.
+🎓 B.Tech in Computer Science & Engineering — AKGEC
+📅 Expected Graduation: 2027
+📊 CGPA: 8.0/10
+💼 Currently working as a Full Stack Developer Intern at PayVista Technology Solutions
+🧠 Solved 250+ DSA problems across LeetCode and GeeksforGeeks
+🚀 Interested in Backend Engineering, Full Stack Development, System Design & AI-powered applications
+🛠️ Experienced with Java, JavaScript, TypeScript, React.js, Node.js, Express.js & SQL/NoSQL databases
+🏆 Ranked in the Top 100 among 1000+ teams at the Executive 4.0 Hackathon, DTU
+🌱 Currently strengthening my knowledge of Backend Development, System Design, DSA, Caching and scalable architectures
+🌐 Connect With Me
 
----
 
-## 🎯 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering** - Final Year
-- 💻 **Tech Stack**: JavaScript (ES6+), React.js, Node.js, Express.js, MongoDB, SQL, HTML5, CSS3
-- 🚀 **Specialization**: Full Stack Web Development & Responsive Design
-- 🌟 **Focus Areas**: Building scalable applications, Modern JavaScript, Web Performance
-- 📍 **Looking for**: Full-time roles, Internships, and Collaborative projects
-- 💼 **LinkedIn**: [(https://www.linkedin.com/in/abhishek-gangwar-157440309/)]
-- 📧 **Email**: abhishekgangwar9876@email.com
-- 📱 **Phone**: +91-6386252355
 
----
 
-## 🛠️ Technical Skills
 
-### Frontend Development
-- **Languages & Markup**: JavaScript (ES6+), HTML5, CSS3
-- **Libraries & Frameworks**: React.js, React Hooks, Context API
-- **Styling**: CSS3, Responsive Design, Grid
-- **Tools**: Vercel, GitHub, Git Version Control
 
-### Backend Development
-- **Runtime**: Node.js
-- **Framework**: Express.js
-- **Databases**: MongoDB (NoSQL), SQL (MySQL/PostgreSQL)
-- **APIs**: RESTful API Development
+💻 Tech Stack
+👨‍💻 Languages
 
-### Other Tools & Skills
-- **Version Control**: Git & GitHub
-- **Deployment**: Vercel,Render
-- **Problem Solving**: Data Structures, Algorithms
-- **Additional**: Redux, Postman, VS Code
 
----
 
-## 🚀 Featured Projects
 
-### 📚 [VirtualCourses](https://github.com/abhishek-0512/VirtualCourses)
-**An interactive online learning platform**
-- **Tech Stack**: React.js, Node.js, MongoDB, Express.js
-- **Features**: 
-  - Course browsing and filtering
-  - User authentication system
-  - Enrollment functionality
-  - Responsive design for all devices
-- **Live Demo**: [virtualcourses.vercel.app](https://virtual-courses-dun.vercel.app)
-- **Key Learning**: Full-stack architecture, database design, user authentication, deployment
 
-### 💳 [ShopNest](https://github.com/abhishek-0512/shopnest)
-**E-commerce platform with advanced product management**
-- **Tech Stack**: React.js, Node.js, MongoDB, Express.js
-- **Features**:
-  - Product listing, search, and filtering
-  - Shopping cart functionality with persistent storage
-  - User authentication & secure login
-  - Admin panel for product management
-  - Order management system
-- **Highlights**: Payment integration, State management with Context API, Role-based access control
-- **Live Demo**: https://shopnest-tau-pink.vercel.app/
-- **Key Learning**: Full-stack e-commerce development, inventory management, payment processing
 
-### 🎓 [Your-Planner](https://github.com/abhishek-0512/Your-Planner)
-**Smart planning and scheduling application**
-- **Tech Stack**: React.js, Node.js, MongoDB
-- **Features**: Task scheduling, Priority management, User-friendly interface
-- **Highlights**: Real-time updates, Persistent data storage
 
----
 
-## 📊 GitHub Statistics
+🌐 Frontend
 
-- **Total Repositories**: 12
-- **Primary Language**: JavaScript (99.1%)
-- **Open to Collaboration**: Yes ✅
-- **Learning**: Advanced React patterns, Web optimization, System design
 
----
 
-## 🎓 Education
 
-- **Degree**: B.Tech in Computer Science & Engineering
-- **Current Status**: Final Year Student
-- **Relevant Coursework**: 
-  - Data Structures & Algorithms
-  - Web Development (Frontend & Backend)
-  - Database Management Systems
-  - Software Engineering
-  - Object-Oriented Programming
 
----
 
-## 🌱 Currently Learning
 
-- ⚡ Advanced React patterns (Custom Hooks, Code Splitting)
-- 📈 Web performance optimization (Lazy loading, Code splitting)
-- 🏗️ System design fundamentals
-- 🔐 Backend security best practices
-- 📱 Progressive Web Apps (PWA)
 
----
 
-## 💡 What I'm Looking For
 
-✅ **Full-time Software Developer roles**  
-✅ **Internship opportunities** in Web Development  
-✅ **Collaborative projects** with experienced teams  
-✅ **Opportunities to contribute** to open-source  
-✅ **Companies** focusing on modern tech stack & innovation  
+⚙️ Backend & APIs
 
----
 
-## 🌐 Available For
 
-- 📍 **Remote Work**: Preferred
-- 🏢 **On-site**: Open to relocation for the right opportunity
-- 📅 **Availability**: Immediate (after semester completion)
 
----
 
-## 📱 Connect With Me
 
-- **GitHub**: [@abhishek-0512](https://github.com/abhishek-0512)
-- **LinkedIn**: [linkedin.com/in/abhishek-gangwar](https://linkedin.com/in/abhishek-gangwar)
-- **Email**: abhishek.gangwar@email.com
-- **Portfolio**: [View My Work](https://github.com/abhishek-0512?tab=repositories)
 
----
+🗄️ Databases & Caching
 
-## 💬 Let's Collaborate!
 
-I'm always interested in discussing:
-- 🚀 Exciting development opportunities
-- 💼 Internship & placement roles
-- 🤝 Collaborative projects
-- 💡 Technology & industry insights
-- 📚 Best practices & code reviews
 
-**Feel free to reach out!** I'm excited to connect with teams that are building innovative solutions.
 
----
 
-**⭐ If you find my projects interesting, feel free to star them!**
 
-*Last Updated: September 2026*
+
+🤖 AI & Integrations
+
+
+
+
+
+🛠️ DevOps & Tools
+
+
+
+
+
+
+
+
+🚀 Featured Projects
+🎓 Virtual Courses — AI-Powered LMS
+
+A full-stack learning management system designed to provide course discovery, secure enrollment, lecture management, progress tracking, and role-based access control.
+
+✨ Features
+📚 Course discovery and enrollment
+🔐 JWT-based authentication and role-based authorization
+🎥 Lecture and course management
+📊 Student progress tracking
+🤖 Gemini AI Tutor for interactive learning assistance
+🎙️ Voice Assistant for text and voice-based learning support
+☁️ Cloudinary integration for media management
+⚡ Redux Toolkit for centralized application state
+🔗 RESTful backend APIs
+
+Tech Stack:
+React.js · Tailwind CSS · Redux Toolkit · Node.js · Express.js · MongoDB · JWT · Gemini API · Cloudinary
+
+🔗 Source Code
+🌐 Live Demo
+
+🛒 ShopNest — Full Stack E-Commerce Platform
+
+A full-stack e-commerce application providing product discovery, cart management, authentication, order processing, and administrative operations.
+
+✨ Features
+🛍️ Product browsing and filtering
+🛒 Shopping cart management
+📦 Order processing and lifecycle management
+🔐 Authentication and authorization
+👨‍💼 Admin operations
+🔌 REST APIs for users, products, inventory, and orders
+🚀 Separate production deployments for frontend and backend
+
+Tech Stack:
+React.js · Tailwind CSS · Redux · Framer Motion · Node.js · Express.js · MongoDB · JWT
+
+🔗 Source Code
+
+💼 Experience
+Full Stack Developer Intern — PayVista Technology Solutions
+
+July 2026 – Present
+
+📊 Developing a document analytics platform that processes CSV, Excel, and PDF files into structured business insights and interactive dashboards.
+⚙️ Building REST APIs and data-processing workflows using Node.js and SQL for dataset analysis and automated report generation.
+💬 Integrated WhatsApp Business messaging to automate payment notifications and streamline customer communication workflows.
+🚀 Implemented GitHub Actions CI/CD pipelines to automate deployments across development and production environments.
+Web Developer Intern — IBM SkillsBuild
+
+August 2025 – September 2025
+
+🍔 Developed a responsive food-ordering application with menu browsing and cart management.
+⚛️ Built reusable React components for modular frontend development.
+📱 Focused on responsiveness, maintainability, and user experience.
+🧠 Core Computer Science Knowledge
+📌 Data Structures & Algorithms
+🧩 Object-Oriented Programming
+🗄️ Database Management Systems
+💻 Operating Systems
+🌐 REST APIs
+🔐 Authentication & Authorization
+⚡ Caching
+🏗️ System Design
+🔄 CI/CD
+🐳 Docker
+📚 Currently Learning
+🏗️ Backend Architecture & System Design
+⚡ Advanced Node.js & Backend Development
+☕ Java & Backend Engineering
+🔥 Redis & Caching
+🧩 Data Structures & Algorithms
+🤖 Generative AI & AI-powered applications
+🚀 Scalable and maintainable software architectures
+🏆 Achievements
+🥇 Executive 4.0 Hackathon — DTU
+
+Ranked in the Top 100 among 1000+ teams by building a scalable backend solution.
+
+🧠 DSA
+
+Solved 250+ Data Structures & Algorithms problems across LeetCode and GeeksforGeeks.
+
+📜 Certifications
+IBM SkillsBuild — Full Stack Developer Professional Certificate
+🎓 Education
+Ajay Kumar Garg Engineering College (AKGEC)
+
+Bachelor of Technology — Computer Science & Engineering
+
+📅 October 2023 – June 2027
+📊 CGPA: 8.0/10
+📍 Ghaziabad, Uttar Pradesh, India
+
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.shion.dev/api?username=abhishek-0512&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" height="180"/> <img src="https://streak-stats.demolab.com/?user=abhishek-0512&theme=github_dark&hide_border=false" height="180"/> </p>
+
+<p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abhishek-0512&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /> </p>
+
+🏆 GitHub Trophies
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=abhishek-0512&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" /> </p>
+
+📈 Contribution Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-0512&theme=github-compact" /> </p>
+
+💡 What I Like Building
+Full Stack Applications
+        ↓
+RESTful APIs & Backend Systems
+        ↓
+Authentication & Authorization
+        ↓
+Databases & Caching
+        ↓
+AI-Powered Features
+        ↓
+Scalable & Maintainable Products
+
+I enjoy taking an idea from concept → architecture → implementation → deployment and continuously improving it through real-world development.
+
+<p align="center"> <b>🚀 Building. Learning. Solving. Shipping.</b> </p>
+
+<p align="center"> <i>Turning ideas into reliable software, one project at a time.</i> </p>
